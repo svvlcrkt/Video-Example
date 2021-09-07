@@ -10,6 +10,9 @@ HTML, CSS, JavaScript
 * https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org
 * https://www.w3schools.com/tags/tag_video.asp
 
+### About The Project:
+* If you can click pause, then video stops.
+* If you can click play, then video continue.
 
 ### PROJECT VİEW:
 
