@@ -11,8 +11,8 @@ HTML, CSS, JavaScript
 * https://www.w3schools.com/tags/tag_video.asp
 
 ### About The Project:
-* If you can click pause, then video stops.
-* If you can click play, then video continue.
+* If you click pause, then video stops.
+* If you click play, then video continue.
 
 ### PROJECT VİEW:
 
