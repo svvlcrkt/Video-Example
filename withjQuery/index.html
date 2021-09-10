@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video-project</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- add jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <!-- preloader -->
+    <div class="preloader">
+        <img src="preloader.gif" alt="preloader" class="preloader__item">
+    </div>
+
+
+    <!-- header -->
+    <header>
+        <!-- autoplay specifies that the video will start playing as soon as it is ready -->
+        <!-- controls specifies that video controls should be displayed (such as a play/pause button) -->
+        <!-- loop specifies that the video start over again, every time is finished -->
+        <!-- muted specifies that the audio output of the video should be muted -->
+        <video class="video-container" controls muted autoplay loop>
+            <source src="video.mp4" type="video/mp4">
+        </video>
+        <h1>video project</h1>
+        <!-- video switch -->
+        <button class="switch-btn">
+            <span>
+                play
+            </span>
+            <span>
+                pause
+            </span>
+            <span class="switch"></span>
+        </button>
+    </header>
+
+
+    
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>
