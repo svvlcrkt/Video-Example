@@ -6,7 +6,7 @@
 ## *Used Technologies*
 *HTML, CSS, JavaScript*
 
-## *Used Resources
+## *Used Resources*
 * *https://www.youtube.com/watch?v=3PHXvlpOkf4&ab_channel=freeCodeCamp.org*
 * *https://www.w3schools.com/tags/tag_video.asp*
 
